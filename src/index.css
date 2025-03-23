@@ -1,0 +1,10 @@
+#timer2 {
+  width: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.decoration {
+  color: red;
+}
