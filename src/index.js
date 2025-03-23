@@ -89,6 +89,7 @@ btn2.addEventListener("click", () => {
         btn3.disabled = true
         d = 30
         timer2.textContent = d
+        text.textContent = ""
 
 
         countTimer2 = setInterval(() => {
