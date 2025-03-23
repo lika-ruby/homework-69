@@ -87,7 +87,7 @@ btn2.addEventListener("click", () => {
         clearInterval(animationTimer)
         timer2.classList.remove("decoration")
         btn3.disabled = true
-        d = 31
+        d = 30
         timer2.textContent = d
 
 
